@@ -1,0 +1,3 @@
+module DigestPerfect
+  # Your code goes here...
+end
